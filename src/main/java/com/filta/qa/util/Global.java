@@ -66,6 +66,7 @@ public class Global
 			options.setCapability(CapabilityType.UNEXPECTED_ALERT_BEHAVIOUR, UnexpectedAlertBehaviour.IGNORE);
 			options.addArguments("--start-maximized");
 			options.addArguments("--disable-web-security");
+			options.setPageLoadStrategy(PageLoadStrategy.NONE);
 			options.addArguments("--no-proxy-server");
 			options.addArguments("disable-infobars");
 			options.addArguments("--log-level=3");

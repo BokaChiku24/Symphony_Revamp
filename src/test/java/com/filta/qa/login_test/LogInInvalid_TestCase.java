@@ -56,10 +56,10 @@ public class LogInInvalid_TestCase
 		prop = globalObj.readProperties();
 		login = new Login(driver);
 		htmlReporter = new ExtentHtmlReporter(
-				System.getProperty("user.dir") + "/Symphony_Reports/HomePage/LoginInvalid_TestCase.html");
+				System.getProperty("user.dir") + "/Symphony_Revamp_Reports/HomePage/LoginInvalid_TestCase.html");
 		extent = new ExtentReports();
 		extent.attachReporter(htmlReporter);
-		extent.setSystemInfo("OS", "Windows 7 64 Bit");
+		extent.setSystemInfo("OS", "Windows 10 64 Bit");
 		extent.setSystemInfo("Browser", "Google Chrome");
 		extent.setSystemInfo("Author:", "Kunal Chavan");
 		extent.setSystemInfo("Testing:", "Functional Testing");

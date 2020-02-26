@@ -17,4 +17,106 @@
  2020-02-17 23:01:51,357  INFO [main] Sign In Test Case:143 - Sign In Test Case Ends Here
  2020-02-17 23:05:25,644  INFO [main] Sign In Test Case:97 - Test Case 1: Check Login Functionality With Valid Credentials And Avaliable Links Name
  2020-02-17 23:06:21,611  INFO [main] Sign In Test Case:143 - Sign In Test Case Ends Here
+ 2020-02-26 21:34:08,889  INFO [main] Sign In Test Case:97 - Test Case 1: Check Login Functionality With Valid Credentials And Avaliable Links Name
+ 2020-02-26 21:34:23,843  INFO [main] Sign In Test Case:143 - Sign In Test Case Ends Here
+ 2020-02-26 21:36:54,591  INFO [main] Sign In With Invalid Credentials Test Case:76 - Test Case 1: Check Login Functionality With Invalid Credentials
+ 2020-02-26 21:41:21,509  INFO [main] Sign In With Invalid Credentials Test Case:76 - Test Case 1: Check Login Functionality With Invalid Credentials
+ 2020-02-26 21:42:13,479  INFO [main] Sign In With Invalid Credentials Test Case:88 - Test Case 2: Check Login Functionality Without Credentials
+ 2020-02-26 21:43:14,952  INFO [main] Sign In With Invalid Credentials Test Case:76 - Test Case 1: Check Login Functionality With Invalid Credentials
+ 2020-02-26 21:44:06,883  INFO [main] Sign In With Invalid Credentials Test Case:88 - Test Case 2: Check Login Functionality Without Credentials
+ 2020-02-26 21:44:58,930  INFO [main] Sign In With Invalid Credentials Test Case:101 - Test Case 3: Check Login Functionality WithInvalid Credentials
+ 2020-02-26 21:45:51,020  INFO [main] Sign In With Invalid Credentials Test Case:114 - Test Case 4: Check Login Functionality WithInvalid Credentials
+ 2020-02-26 21:46:43,075  INFO [main] Sign In With Invalid Credentials Test Case:127 - Test Case 5: Get All Login URL
+ 2020-02-26 21:46:43,143  INFO [main] Sign In With Invalid Credentials Test Case:136 - Test Case 6: Get All Broken URL
+ 2020-02-26 21:46:43,269  INFO [main] Sign In With Invalid Credentials Test Case:176 - Sign In Test Case Ends Here
+ 2020-02-26 21:49:10,819  INFO [main] Sign In With Invalid Credentials Test Case:76 - Test Case 1: Check Login Functionality With Invalid Credentials
+ 2020-02-26 21:49:12,329  INFO [main] Sign In With Invalid Credentials Test Case:88 - Test Case 2: Check Login Functionality Without Credentials
+ 2020-02-26 21:49:13,761  INFO [main] Sign In With Invalid Credentials Test Case:101 - Test Case 3: Check Login Functionality WithInvalid Credentials
+ 2020-02-26 21:49:15,200  INFO [main] Sign In With Invalid Credentials Test Case:114 - Test Case 4: Check Login Functionality WithInvalid Credentials
+ 2020-02-26 21:49:16,693  INFO [main] Sign In With Invalid Credentials Test Case:127 - Test Case 5: Get All Login URL
+ 2020-02-26 21:49:16,774  INFO [main] Sign In With Invalid Credentials Test Case:136 - Test Case 6: Get All Broken URL
+ 2020-02-26 21:49:16,913  INFO [main] Sign In With Invalid Credentials Test Case:176 - Sign In Test Case Ends Here
+ 2020-02-26 21:54:41,335  INFO [main] Sign In With Invalid Credentials Test Case:76 - Test Case 1: Check Login Functionality With Invalid Credentials
+ 2020-02-26 21:54:43,139  INFO [main] Sign In With Invalid Credentials Test Case:88 - Test Case 2: Check Login Functionality Without Credentials
+ 2020-02-26 21:54:45,062  INFO [main] Sign In With Invalid Credentials Test Case:101 - Test Case 3: Check Login Functionality WithInvalid Credentials
+ 2020-02-26 21:54:46,937  INFO [main] Sign In With Invalid Credentials Test Case:114 - Test Case 4: Check Login Functionality WithInvalid Credentials
+ 2020-02-26 21:54:48,772  INFO [main] Sign In With Invalid Credentials Test Case:127 - Test Case 5: Get All Login URL
+ 2020-02-26 21:54:48,945  INFO [main] Sign In With Invalid Credentials Test Case:136 - Test Case 6: Get All Broken URL
+ 2020-02-26 21:54:49,088  INFO [main] Sign In With Invalid Credentials Test Case:176 - Sign In Test Case Ends Here
+ 2020-02-26 21:58:25,921  INFO [main] Sign In With Invalid Credentials Test Case:76 - Test Case 1: Check Login Functionality With Invalid Credentials
+ 2020-02-26 21:58:27,421  INFO [main] Sign In With Invalid Credentials Test Case:88 - Test Case 2: Check Login Functionality Without Credentials
+ 2020-02-26 21:58:28,770  INFO [main] Sign In With Invalid Credentials Test Case:101 - Test Case 3: Check Login Functionality WithInvalid Credentials
+ 2020-02-26 21:58:30,187  INFO [main] Sign In With Invalid Credentials Test Case:114 - Test Case 4: Check Login Functionality WithInvalid Credentials
+ 2020-02-26 21:58:31,575  INFO [main] Sign In With Invalid Credentials Test Case:127 - Test Case 5: Get All Login URL
+ 2020-02-26 21:58:31,650  INFO [main] Sign In With Invalid Credentials Test Case:136 - Test Case 6: Get All Broken URL
+ 2020-02-26 21:58:31,781  INFO [main] Sign In With Invalid Credentials Test Case:176 - Sign In Test Case Ends Here
+ 2020-02-26 21:59:25,576  INFO [main] Sign In With Invalid Credentials Test Case:76 - Test Case 1: Check Login Functionality With Invalid Credentials
+ 2020-02-26 21:59:27,071  INFO [main] Sign In With Invalid Credentials Test Case:88 - Test Case 2: Check Login Functionality Without Credentials
+ 2020-02-26 21:59:28,512  INFO [main] Sign In With Invalid Credentials Test Case:101 - Test Case 3: Check Login Functionality WithInvalid Credentials
+ 2020-02-26 21:59:29,892  INFO [main] Sign In With Invalid Credentials Test Case:114 - Test Case 4: Check Login Functionality WithInvalid Credentials
+ 2020-02-26 21:59:31,317  INFO [main] Sign In With Invalid Credentials Test Case:127 - Test Case 5: Get All Login URL
+ 2020-02-26 21:59:31,397  INFO [main] Sign In With Invalid Credentials Test Case:136 - Test Case 6: Get All Broken URL
+ 2020-02-26 21:59:31,540  INFO [main] Sign In With Invalid Credentials Test Case:176 - Sign In Test Case Ends Here
+ 2020-02-26 22:00:47,568  INFO [main] LogInPage Test Case:71 - Test Case 1: Text Check On Login Page
+ 2020-02-26 22:05:30,484  INFO [main] Sign In Test Case:97 - Test Case 1: Check Login Functionality With Valid Credentials And Avaliable Links Name
+ 2020-02-26 22:05:47,347  INFO [main] Sign In Test Case:143 - Sign In Test Case Ends Here
+ 2020-02-26 22:06:25,314  INFO [main] Sign In With Invalid Credentials Test Case:76 - Test Case 1: Check Login Functionality With Invalid Credentials
+ 2020-02-26 22:06:26,873  INFO [main] Sign In With Invalid Credentials Test Case:88 - Test Case 2: Check Login Functionality Without Credentials
+ 2020-02-26 22:06:28,286  INFO [main] Sign In With Invalid Credentials Test Case:101 - Test Case 3: Check Login Functionality WithInvalid Credentials
+ 2020-02-26 22:06:29,672  INFO [main] Sign In With Invalid Credentials Test Case:114 - Test Case 4: Check Login Functionality WithInvalid Credentials
+ 2020-02-26 22:06:31,070  INFO [main] Sign In With Invalid Credentials Test Case:127 - Test Case 5: Get All Login URL
+ 2020-02-26 22:06:31,142  INFO [main] Sign In With Invalid Credentials Test Case:136 - Test Case 6: Get All Broken URL
+ 2020-02-26 22:06:31,282  INFO [main] Sign In With Invalid Credentials Test Case:176 - Sign In Test Case Ends Here
+ 2020-02-26 22:07:43,881  INFO [main] Forget Password Test Case:79 - Test Case 0: Get All URL Names
+ 2020-02-26 22:07:43,973  INFO [main] Forget Password Test Case:88 - Test Case 0: Get All Broken URL Names
+ 2020-02-26 22:07:44,129  INFO [main] Forget Password Test Case:97 - Test Case 1: Forgot Password Check With Valid Username And Email
+ 2020-02-26 22:21:59,022  INFO [main] Forget Password Test Case:79 - Test Case 0: Get All URL Names
+ 2020-02-26 22:21:59,115  INFO [main] Forget Password Test Case:88 - Test Case 0: Get All Broken URL Names
+ 2020-02-26 22:21:59,274  INFO [main] Forget Password Test Case:97 - Test Case 1: Forgot Password Check With Valid Username And Email
+ 2020-02-26 22:26:14,577  INFO [main] Forget Password Test Case:79 - Test Case 0: Get All URL Names
+ 2020-02-26 22:26:14,674  INFO [main] Forget Password Test Case:88 - Test Case 0: Get All Broken URL Names
+ 2020-02-26 22:26:14,813  INFO [main] Forget Password Test Case:97 - Test Case 1: Forgot Password Check With Valid Username And Email
+ 2020-02-26 22:28:40,712  INFO [main] Forget Password Test Case:79 - Test Case 0: Get All URL Names
+ 2020-02-26 22:28:40,808  INFO [main] Forget Password Test Case:88 - Test Case 0: Get All Broken URL Names
+ 2020-02-26 22:28:40,960  INFO [main] Forget Password Test Case:97 - Test Case 1: Forgot Password Check With Valid Username And Email
+ 2020-02-26 22:28:44,185  INFO [main] Forget Password Test Case:108 - Test Case 2: Forgot Password Check With Invalid Username And Email
+ 2020-02-26 22:32:33,500  INFO [main] Forget Password Test Case:79 - Test Case 0: Get All URL Names
+ 2020-02-26 22:32:33,589  INFO [main] Forget Password Test Case:88 - Test Case 0: Get All Broken URL Names
+ 2020-02-26 22:32:33,736  INFO [main] Forget Password Test Case:97 - Test Case 1: Forgot Password Check With Valid Username And Email
+ 2020-02-26 22:32:36,876  INFO [main] Forget Password Test Case:108 - Test Case 2: Forgot Password Check With Invalid Username And Email
+ 2020-02-26 22:32:37,750  INFO [main] Forget Password Test Case:118 - Test Case 3: Forgot Password Check Without Username And Email
+ 2020-02-26 22:32:37,973  INFO [main] Forget Password Test Case:128 - Test Case 4: Forgot Password Check Without Username And With Email
+ 2020-02-26 22:32:38,268  INFO [main] Forget Password Test Case:138 - Test Case 5: Forgot Password Check With Username And Without Email
+ 2020-02-26 22:32:38,518  INFO [main] Forget Password Test Case:148 - Test Case 6: Forgot Password Textbox Check
+ 2020-02-26 22:32:38,555  INFO [main] Forget Password Test Case:157 - Test Case 7: Forgot Password Label Check
+ 2020-02-26 22:33:28,999  INFO [main] Forget Password Test Case:197 - Forgot Password Test Case Ends Here
+ 2020-02-26 22:38:53,123  INFO [main] Forget Password Test Case:79 - Test Case 0: Get All URL Names
+ 2020-02-26 22:38:53,209  INFO [main] Forget Password Test Case:88 - Test Case 0: Get All Broken URL Names
+ 2020-02-26 22:38:53,356  INFO [main] Forget Password Test Case:97 - Test Case 1: Forgot Password Check With Valid Username And Email
+ 2020-02-26 22:38:56,490  INFO [main] Forget Password Test Case:108 - Test Case 2: Forgot Password Check With Invalid Username And Email
+ 2020-02-26 22:38:57,414  INFO [main] Forget Password Test Case:118 - Test Case 3: Forgot Password Check Without Username And Email
+ 2020-02-26 22:38:57,667  INFO [main] Forget Password Test Case:128 - Test Case 4: Forgot Password Check Without Username And With Email
+ 2020-02-26 22:38:58,014  INFO [main] Forget Password Test Case:138 - Test Case 5: Forgot Password Check With Username And Without Email
+ 2020-02-26 22:38:58,252  INFO [main] Forget Password Test Case:148 - Test Case 6: Forgot Password Textbox Check
+ 2020-02-26 22:38:58,288  INFO [main] Forget Password Test Case:157 - Test Case 7: Forgot Password Label Check
+ 2020-02-26 22:38:59,037  INFO [main] Forget Password Test Case:197 - Forgot Password Test Case Ends Here
+ 2020-02-26 22:42:57,389  INFO [main] Forget Password Test Case:79 - Test Case 0: Get All URL Names
+ 2020-02-26 22:42:57,476  INFO [main] Forget Password Test Case:88 - Test Case 0: Get All Broken URL Names
+ 2020-02-26 22:42:57,612  INFO [main] Forget Password Test Case:97 - Test Case 1: Forgot Password Check With Valid Username And Email
+ 2020-02-26 22:43:00,783  INFO [main] Forget Password Test Case:108 - Test Case 2: Forgot Password Check With Invalid Username And Email
+ 2020-02-26 22:43:01,687  INFO [main] Forget Password Test Case:118 - Test Case 3: Forgot Password Check Without Username And Email
+ 2020-02-26 22:43:01,923  INFO [main] Forget Password Test Case:128 - Test Case 4: Forgot Password Check Without Username And With Email
+ 2020-02-26 22:43:02,219  INFO [main] Forget Password Test Case:138 - Test Case 5: Forgot Password Check With Username And Without Email
+ 2020-02-26 22:43:02,460  INFO [main] Forget Password Test Case:148 - Test Case 6: Forgot Password Textbox Check
+ 2020-02-26 22:43:02,497  INFO [main] Forget Password Test Case:157 - Test Case 7: Forgot Password Label Check
+ 2020-02-26 22:43:03,196  INFO [main] Forget Password Test Case:197 - Forgot Password Test Case Ends Here
+ 2020-02-26 22:43:48,894  INFO [main] Sign In Test Case:97 - Test Case 1: Check Login Functionality With Valid Credentials And Avaliable Links Name
+ 2020-02-26 22:44:04,636  INFO [main] Sign In Test Case:143 - Sign In Test Case Ends Here
+ 2020-02-26 22:46:35,951  INFO [main] Sign In With Invalid Credentials Test Case:76 - Test Case 1: Check Login Functionality With Invalid Credentials
+ 2020-02-26 22:46:37,432  INFO [main] Sign In With Invalid Credentials Test Case:88 - Test Case 2: Check Login Functionality Without Credentials
+ 2020-02-26 22:46:38,873  INFO [main] Sign In With Invalid Credentials Test Case:101 - Test Case 3: Check Login Functionality WithInvalid Credentials
+ 2020-02-26 22:46:40,264  INFO [main] Sign In With Invalid Credentials Test Case:114 - Test Case 4: Check Login Functionality WithInvalid Credentials
+ 2020-02-26 22:46:41,645  INFO [main] Sign In With Invalid Credentials Test Case:127 - Test Case 5: Get All Login URL
+ 2020-02-26 22:46:41,718  INFO [main] Sign In With Invalid Credentials Test Case:136 - Test Case 6: Get All Broken URL
+ 2020-02-26 22:46:41,853  INFO [main] Sign In With Invalid Credentials Test Case:176 - Sign In Test Case Ends Here
  

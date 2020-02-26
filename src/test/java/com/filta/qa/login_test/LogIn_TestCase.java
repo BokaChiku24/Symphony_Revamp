@@ -63,7 +63,7 @@ public class LogIn_TestCase
 		prop = globalObj.readProperties();
 		login = new Login(driver);
 		htmlReporter = new ExtentHtmlReporter(
-				System.getProperty("user.dir") + "/Symphony_Reports/HomePage/Login_TestCase.html");
+				System.getProperty("user.dir") + "/Symphony_Revamp_Reports/HomePage/Login_TestCase.html");
 		extent = new ExtentReports();
 		extent.attachReporter(htmlReporter);
 		extent.setSystemInfo("OS", "Windows 10 64 Bit");

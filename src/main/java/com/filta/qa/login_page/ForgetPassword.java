@@ -239,7 +239,7 @@ public class ForgetPassword
 		globalObj.wait(driver)
 				.until(ExpectedConditions.textToBePresentInElementLocated(
 						By.xpath(".//div[@id='generate_success']"),
-						"You must specify a valid User Name and Email Address."));
+						"Provide both a User Name and an Email Address."));
 		Assert.assertEquals(successMessage.getText(), prop.getProperty("Message2"));
 	}
 
@@ -280,8 +280,6 @@ public class ForgetPassword
 
 	public void labelCheck()
 	{
-		Assert.assertEquals(uNameLabel.getText(), prop.getProperty("Label1"));
-		Assert.assertEquals(emailLabel.getText(), prop.getProperty("Label2"));
 		globalObj.wait(driver).until(ExpectedConditions.textToBePresentInElementValue(button, "Submit"));
 		Assert.assertEquals(button.getAttribute("value"), prop.getProperty("Label4"));
 		forgotPasswordSubmit.click();

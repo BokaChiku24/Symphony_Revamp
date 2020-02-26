@@ -59,14 +59,14 @@ public class ForgetPassword_TestCase
 		driver = globalObj.driver();
 		forgotPassword = new ForgetPassword(driver);
 		htmlReporter = new ExtentHtmlReporter(
-				System.getProperty("user.dir") + "/Symphony_Reports/HomePage/ForgetPassword_TestCase.html");
+				System.getProperty("user.dir") + "/Symphony_Revamp_Reports/HomePage/ForgetPassword_TestCase.html");
 		extent = new ExtentReports();
 		extent.attachReporter(htmlReporter);
 		extent.setSystemInfo("OS", "Windows 7 64 Bit");
 		extent.setSystemInfo("Browser", "Google Chrome");
 		extent.setSystemInfo("Author:", "Kunal Chavan");
 		extent.setSystemInfo("Testing:", "Functional Testing");
-		htmlReporter.config().setReportName("Forgot Password Functionality Test case");
+		htmlReporter.config().setReportName("Forgot assword Functionality Test case");
 		htmlReporter.config().setTheme(Theme.STANDARD);
 		htmlReporter.config().setTimeStampFormat("EEEE, MMMM dd, yyyy, hh:mm a'('zzz')'");
 		htmlReporter.loadXMLConfig("./extent-config.xml");

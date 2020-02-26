@@ -1,48 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-02-17T23:04:46 IST" name="Default suite" finished-at="2020-02-17T23:06:26 IST" duration-ms="100146">
+  <suite started-at="2020-02-26T22:46:10 IST" name="Default suite" finished-at="2020-02-26T22:46:42 IST" duration-ms="32070">
     <groups>
     </groups>
-    <test started-at="2020-02-17T23:04:46 IST" name="Default test" finished-at="2020-02-17T23:06:26 IST" duration-ms="100146">
-      <class name="com.filta.qa.login_test.LogIn_TestCase">
-        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.filta.qa.login_test.LogIn_TestCase@7ec7ffd3]" started-at="2020-02-17T23:04:46 IST" name="beforeClass" finished-at="2020-02-17T23:05:25 IST" duration-ms="38955" status="PASS">
+    <test started-at="2020-02-26T22:46:10 IST" name="Default test" finished-at="2020-02-26T22:46:42 IST" duration-ms="32070">
+      <class name="com.filta.qa.login_test.LogInInvalid_TestCase">
+        <test-method is-config="true" signature="property()[pri:0, instance:com.filta.qa.login_test.LogInInvalid_TestCase@5876a9af]" started-at="2020-02-26T22:46:10 IST" name="property" finished-at="2020-02-26T22:46:35 IST" duration-ms="25781" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- beforeClass -->
-        <test-method signature="signInTesting(java.lang.String, java.lang.String)[pri:0, instance:com.filta.qa.login_test.LogIn_TestCase@7ec7ffd3]" started-at="2020-02-17T23:05:25 IST" name="signInTesting" data-provider="getData" finished-at="2020-02-17T23:06:21 IST" duration-ms="55940" status="PASS">
+        </test-method> <!-- property -->
+        <test-method signature="signInWithInvalidCredentails()[pri:0, instance:com.filta.qa.login_test.LogInInvalid_TestCase@5876a9af]" started-at="2020-02-26T22:46:35 IST" name="signInWithInvalidCredentails" finished-at="2020-02-26T22:46:37 IST" duration-ms="1469" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInWithInvalidCredentails -->
+        <test-method is-config="true" signature="takeScreenShotOnFailure(org.testng.ITestResult)[pri:0, instance:com.filta.qa.login_test.LogInInvalid_TestCase@5876a9af]" started-at="2020-02-26T22:46:37 IST" name="takeScreenShotOnFailure" finished-at="2020-02-26T22:46:37 IST" duration-ms="13" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[admin]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[admin]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- signInTesting -->
-        <test-method is-config="true" signature="takeScreenShotOnFailure(org.testng.ITestResult)[pri:0, instance:com.filta.qa.login_test.LogIn_TestCase@7ec7ffd3]" started-at="2020-02-17T23:06:21 IST" name="takeScreenShotOnFailure" finished-at="2020-02-17T23:06:21 IST" duration-ms="19" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=signInTesting status=SUCCESS method=LogIn_TestCase.signInTesting(java.lang.String, java.lang.String)[pri:0, instance:com.filta.qa.login_test.LogIn_TestCase@7ec7ffd3] output={null}]]]>
+                <![CDATA[[TestResult name=signInWithInvalidCredentails status=SUCCESS method=LogInInvalid_TestCase.signInWithInvalidCredentails()[pri:0, instance:com.filta.qa.login_test.LogInInvalid_TestCase@5876a9af] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- takeScreenShotOnFailure -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.filta.qa.login_test.LogIn_TestCase@7ec7ffd3]" started-at="2020-02-17T23:06:21 IST" name="afterClass" finished-at="2020-02-17T23:06:26 IST" duration-ms="4764" status="PASS">
+        <test-method signature="signInWithInvalidCredentails2()[pri:1, instance:com.filta.qa.login_test.LogInInvalid_TestCase@5876a9af]" started-at="2020-02-26T22:46:37 IST" name="signInWithInvalidCredentails2" finished-at="2020-02-26T22:46:38 IST" duration-ms="1435" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInWithInvalidCredentails2 -->
+        <test-method is-config="true" signature="takeScreenShotOnFailure(org.testng.ITestResult)[pri:0, instance:com.filta.qa.login_test.LogInInvalid_TestCase@5876a9af]" started-at="2020-02-26T22:46:38 IST" name="takeScreenShotOnFailure" finished-at="2020-02-26T22:46:38 IST" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=signInWithInvalidCredentails2 status=SUCCESS method=LogInInvalid_TestCase.signInWithInvalidCredentails2()[pri:1, instance:com.filta.qa.login_test.LogInInvalid_TestCase@5876a9af] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenShotOnFailure -->
+        <test-method signature="signInWithInvalidCredentails3()[pri:2, instance:com.filta.qa.login_test.LogInInvalid_TestCase@5876a9af]" started-at="2020-02-26T22:46:38 IST" name="signInWithInvalidCredentails3" finished-at="2020-02-26T22:46:40 IST" duration-ms="1388" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInWithInvalidCredentails3 -->
+        <test-method is-config="true" signature="takeScreenShotOnFailure(org.testng.ITestResult)[pri:0, instance:com.filta.qa.login_test.LogInInvalid_TestCase@5876a9af]" started-at="2020-02-26T22:46:40 IST" name="takeScreenShotOnFailure" finished-at="2020-02-26T22:46:40 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=signInWithInvalidCredentails3 status=SUCCESS method=LogInInvalid_TestCase.signInWithInvalidCredentails3()[pri:2, instance:com.filta.qa.login_test.LogInInvalid_TestCase@5876a9af] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenShotOnFailure -->
+        <test-method signature="signInWithInvalidCredentails4()[pri:2, instance:com.filta.qa.login_test.LogInInvalid_TestCase@5876a9af]" started-at="2020-02-26T22:46:40 IST" name="signInWithInvalidCredentails4" finished-at="2020-02-26T22:46:41 IST" duration-ms="1377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInWithInvalidCredentails4 -->
+        <test-method is-config="true" signature="takeScreenShotOnFailure(org.testng.ITestResult)[pri:0, instance:com.filta.qa.login_test.LogInInvalid_TestCase@5876a9af]" started-at="2020-02-26T22:46:41 IST" name="takeScreenShotOnFailure" finished-at="2020-02-26T22:46:41 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=signInWithInvalidCredentails4 status=SUCCESS method=LogInInvalid_TestCase.signInWithInvalidCredentails4()[pri:2, instance:com.filta.qa.login_test.LogInInvalid_TestCase@5876a9af] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenShotOnFailure -->
+        <test-method signature="availableLinks()[pri:3, instance:com.filta.qa.login_test.LogInInvalid_TestCase@5876a9af]" started-at="2020-02-26T22:46:41 IST" name="availableLinks" finished-at="2020-02-26T22:46:41 IST" duration-ms="71" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- availableLinks -->
+        <test-method is-config="true" signature="takeScreenShotOnFailure(org.testng.ITestResult)[pri:0, instance:com.filta.qa.login_test.LogInInvalid_TestCase@5876a9af]" started-at="2020-02-26T22:46:41 IST" name="takeScreenShotOnFailure" finished-at="2020-02-26T22:46:41 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=availableLinks status=SUCCESS method=LogInInvalid_TestCase.availableLinks()[pri:3, instance:com.filta.qa.login_test.LogInInvalid_TestCase@5876a9af] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenShotOnFailure -->
+        <test-method signature="getBrokenLink()[pri:4, instance:com.filta.qa.login_test.LogInInvalid_TestCase@5876a9af]" started-at="2020-02-26T22:46:41 IST" name="getBrokenLink" finished-at="2020-02-26T22:46:41 IST" duration-ms="133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBrokenLink -->
+        <test-method is-config="true" signature="takeScreenShotOnFailure(org.testng.ITestResult)[pri:0, instance:com.filta.qa.login_test.LogInInvalid_TestCase@5876a9af]" started-at="2020-02-26T22:46:41 IST" name="takeScreenShotOnFailure" finished-at="2020-02-26T22:46:41 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=getBrokenLink status=SUCCESS method=LogInInvalid_TestCase.getBrokenLink()[pri:4, instance:com.filta.qa.login_test.LogInInvalid_TestCase@5876a9af] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenShotOnFailure -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.filta.qa.login_test.LogInInvalid_TestCase@5876a9af]" started-at="2020-02-26T22:46:41 IST" name="afterClass" finished-at="2020-02-26T22:46:42 IST" duration-ms="363" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
-      </class> <!-- com.filta.qa.login_test.LogIn_TestCase -->
+      </class> <!-- com.filta.qa.login_test.LogInInvalid_TestCase -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

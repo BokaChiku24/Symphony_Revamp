@@ -37,7 +37,7 @@ public class Login
 	@FindBy(how = How.XPATH, using = ".//input[@id='bigbutton']")
 	private WebElement logIn;
 
-	@FindBy(how = How.XPATH, using = ".//div[@class='login']//tbody//tr[2]")
+	@FindBy(how = How.XPATH, using = ".//span[@class='error' and text()='You must specify a valid username and password.']")
 	private WebElement errorMessage;
 
 	public Login(WebDriver driver)
@@ -184,7 +184,7 @@ public class Login
 	public void assertCheck2()
 	{
 		globalObj.wait(driver).until(
-				ExpectedConditions.visibilityOfElementLocated(By.xpath(".//div[@class='login']//tbody//tr[2]")));
+				ExpectedConditions.visibilityOfElementLocated(By.xpath(".//span[@class='error' and text()='You must specify a valid username and password.']")));
 		actualMsg = errorMessage.getText();
 		Assert.assertEquals(actualMsg, prop.getProperty("Validation1"));
 	}

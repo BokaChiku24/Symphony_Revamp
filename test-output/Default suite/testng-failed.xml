@@ -3,14 +3,14 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.filta.qa.login_test.LogIn_TestCase">
+      <class name="com.filta.qa.login_test.ForgetPassword_TestCase">
         <methods>
-          <include name="afterClass"/>
-          <include name="signInTesting" invocation-numbers="0"/>
           <include name="takeScreenShotOnFailure"/>
           <include name="beforeClass"/>
+          <include name="labelCheck"/>
+          <include name="afterClass"/>
         </methods>
-      </class> <!-- com.filta.qa.login_test.LogIn_TestCase -->
+      </class> <!-- com.filta.qa.login_test.ForgetPassword_TestCase -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
